@@ -615,7 +615,7 @@ int main() {
         printf("5. List books\n");
         printf("6. Search book\n");
         printf("7. Print top 10 most read books\n");
-        // printf("8. Print top 20 students with least readings\n");
+        printf("8. Print top 20 students with least readings\n");
         printf("0. Exit\n");
         printf("Enter your choice: ");
         scanf("%d", &choice);
